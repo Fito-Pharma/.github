@@ -55,7 +55,7 @@ This GitHub Organization is the engineering home for our digital transformation 
 
 - **Official Website:** [fito.vn](https://fito.vn)
 - **General Inquiries:** [info@fito.vn](mailto:info@fito.vn)
-- **Cultural Heritage:** [FITO Museum — Museum of Traditional Vietnamese Medicine](https://fito.vn)
+- **Cultural Heritage:** [FITO Museum — Museum of Traditional Vietnamese Medicine](https://fitomuseum.com.vn/)
 
 ---
 
