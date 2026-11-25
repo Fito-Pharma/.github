@@ -9,10 +9,10 @@
 
   <p>
     <a href="https://fito.vn">
-      <img src="https://img.shields.io/badge/Website-fito.vn-1B5E20?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Fito Pharma Website">
+      <img src="https://img.shields.io/badge/Website-fito.vn-068A5F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Fito Pharma Website">
     </a>
     <a href="mailto:info@fito.vn">
-      <img src="https://img.shields.io/badge/Contact-info%40fito.vn-2E7D32?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Fito Pharma">
+      <img src="https://img.shields.io/badge/Contact-info%40fito.vn-08B57D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Fito Pharma">
     </a>
     <img src="https://img.shields.io/badge/Location-Vietnam-37474F?style=for-the-badge" alt="Vietnam">
   </p>
