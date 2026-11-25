@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Fito Pharma — Traditional Herbal Heritage Meets Modern Technology">
+  <defs>
+    <linearGradient id="bg-light" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F8FBF8"/>
+      <stop offset="55%" stop-color="#F0F7F1"/>
+      <stop offset="100%" stop-color="#E5F1E7"/>
+    </linearGradient>
+    <linearGradient id="leaf-main" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2E7D32"/>
+      <stop offset="100%" stop-color="#144D1B"/>
+    </linearGradient>
+    <linearGradient id="accent-gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B8860B"/>
+      <stop offset="100%" stop-color="#D4A017"/>
+    </linearGradient>
+    <pattern id="dots-light" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#2E7D32" opacity="0.12"/>
+    </pattern>
+  </defs>
+
+  <!-- Card Background -->
+  <rect x="1" y="1" width="1278" height="318" rx="16" fill="url(#bg-light)" stroke="#D4E5D6" stroke-width="1.5"/>
+
+  <!-- Subtle Right-Side Dot Grid -->
+  <rect x="740" y="20" width="520" height="280" rx="12" fill="url(#dots-light)"/>
+
+  <!-- Decorative Minimalist Concentric Arcs (Right) -->
+  <g fill="none" stroke="#2E7D32" opacity="0.10">
+    <circle cx="1130" cy="160" r="190" stroke-width="1.5"/>
+    <circle cx="1130" cy="160" r="130" stroke-width="1.2" stroke-dasharray="6 6"/>
+    <circle cx="1130" cy="160" r="70" stroke-width="1.2"/>
+  </g>
+
+  <!-- Right-Side Minimalist Tech-Botanical Node Graphic -->
+  <g transform="translate(1055, 85)">
+    <rect x="0" y="0" width="150" height="150" rx="28" fill="#FFFFFF" stroke="#D4E5D6" stroke-width="1.5"/>
+    <!-- Stylized Herbal Leaf + Stem -->
+    <path d="M75 30 C42 46, 36 86, 75 118 C114 86, 108 46, 75 30 Z" fill="url(#leaf-main)" opacity="0.92"/>
+    <path d="M75 40 L75 122" stroke="#F8FBF8" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M75 66 L58 55 M75 84 L92 72 M75 98 L60 88" stroke="#F8FBF8" stroke-width="2" stroke-linecap="round" opacity="0.85"/>
+    <!-- Tech Nodes -->
+    <circle cx="38" cy="40" r="4" fill="#B8860B"/>
+    <circle cx="114" cy="112" r="4" fill="#2E7D32"/>
+    <circle cx="116" cy="44" r="3" fill="#2E7D32" opacity="0.5"/>
+  </g>
+
+  <!-- Top Accent Bar -->
+  <rect x="72" y="54" width="44" height="3.5" rx="2" fill="url(#accent-gold)"/>
+
+  <!-- Eyebrow -->
+  <text x="128" y="60" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2.4" fill="#2E7D32">
+    VIETNAM · PHARMACEUTICAL &amp; TECHNOLOGY
+  </text>
+
+  <!-- Brand Name -->
+  <text x="72" y="136" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="1.2" fill="#0F2914">
+    FITO PHARMA
+  </text>
+
+  <!-- Tagline -->
+  <text x="72" y="178" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#3B5440">
+    Traditional Herbal Heritage Meets Modern Technology
+  </text>
+
+  <!-- Pill Badges -->
+  <g transform="translate(72, 218)" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">
+    <rect x="0" y="0" width="112" height="34" rx="17" fill="#FFFFFF" stroke="#C8DEC9" stroke-width="1.2"/>
+    <circle cx="18" cy="17" r="4" fill="#2E7D32"/>
+    <text x="30" y="21.5" fill="#1B4320">GMP-WHO</text>
+
+    <rect x="124" y="0" width="166" height="34" rx="17" fill="#FFFFFF" stroke="#C8DEC9" stroke-width="1.2"/>
+    <circle cx="142" cy="17" r="4" fill="#B8860B"/>
+    <text x="154" y="21.5" fill="#1B4320">EU / USDA Organic</text>
+
+    <rect x="302" y="0" width="152" height="34" rx="17" fill="#FFFFFF" stroke="#C8DEC9" stroke-width="1.2"/>
+    <circle cx="320" cy="17" r="4" fill="#1565C0"/>
+    <text x="332" y="21.5" fill="#1B4320">Digital &amp; AI</text>
+  </g>
+</svg>
